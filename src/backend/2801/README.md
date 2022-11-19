@@ -25,7 +25,7 @@
 | Situação | Projeto | Aulas | Código Fonte |
 | :--- | :--- | :---: | :---: |
 |![estado](https://img.shields.io/badge/estado-estudando-yellow?style=flat)| Fundamentos | [ver](https://bit.ly/3s1O04D) |  [@github/foundation](Foundation/) |
-|![estado](https://img.shields.io/badge/estado-pendente-red?style=flat)| Calculadora | [ver](https://bit.ly/3S3uVcW) |  - |
+|![estado](https://img.shields.io/badge/estado-estudado-green?style=flat)| Calculadora | [ver](https://bit.ly/3S3uVcW) |  [@github/foundation](Calculator/) |
 |![estado](https://img.shields.io/badge/estado-pendente-red?style=flat)| Cronômetro | [ver](https://bit.ly/3T70CDs) |  - |
 |![estado](https://img.shields.io/badge/estado-pendente-red?style=flat)| Editor de Texto | [ver](https://bit.ly/3yIWxgi) |  - |
 |![estado](https://img.shields.io/badge/estado-pendente-red?style=flat)| Editor HTML | [ver](https://bit.ly/3MDtQYe) |  - |

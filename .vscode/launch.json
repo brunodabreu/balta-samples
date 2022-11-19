@@ -1,6 +1,22 @@
 {
     "version": "0.2.0",
     "configurations": [
+        { // Backend -> 2801 -> Calculator
+            // Use IntelliSense to find out which attributes exist for C# debugging
+            // Use hover for the description of the existing attributes
+            // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
+            "name": ".NET Core Launch (Backend -> 2801 -> Calculator)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/src/backend/2801/Calculator/bin/Debug/net7.0/Calculator.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/src/backend/2801/Calculator",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        },
         { // Backend -> 2801 -> Foundation
             // Use IntelliSense to find out which attributes exist for C# debugging
             // Use hover for the description of the existing attributes
